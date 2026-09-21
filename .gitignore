@@ -1,0 +1,11 @@
+node_modules/
+dist/
+output/
+public/pdfjs/
+.env
+.env.*
+*.log
+.DS_Store
+scripts/build-lesson-one.mjs
+scripts/build-minimal-lesson.mjs
+tests/lesson-form.test.mjs
