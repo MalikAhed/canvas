@@ -2,7 +2,19 @@
   "name": "canvas-studio",
   "version": "1.0.0",
   "private": true,
+  "description": "Browser canvas for arranging and recording presentations with local project storage.",
   "type": "module",
+  "keywords": [
+    "canvas",
+    "presentation",
+    "screen-recording",
+    "pdf",
+    "vite"
+  ],
+  "author": "Malik Abuallatta",
+  "engines": {
+    "node": ">=22.12"
+  },
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
